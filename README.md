@@ -1,13 +1,20 @@
-<a href="#"><img src="https://raw.githubusercontent.com/ArseniiFrontend/ArseniiFrontend/main/assets/avatar-logo.svg" style="border-radius: 5px"></a>
+## Arsenii Usenko and I'm Junior Web-Developer
 
-<p style="color: #FF8BE4; font-size: 30px; line-height: 40px; font-weight: 600">Hi, I'm <span style="text-decoration: underline; text-decoration-thickness: 1.5px; text-underline-offset: 8px;">Arsenii Usenko</span> and I'm Junior Web-Developer</p>
+I’m 16 years old and a Junior Frontend Developer. My tech stack includes React, TypeScript, SCSS, Bootstrap 5, Vite, and Node.js.
 
-<p style="color: #FFFFFF; font-size: 20px; font-weight: 400">I’m 16 years old and a Junior Frontend Developer. My tech stack includes <span style="color: #61DAFB">React</span>, <span style="color: #429CFF ">TypeScript</span>, <span style="color: #F16BAD ">SCSS</span>, <span style="color: #986ADD ">Bootstrap 5</span>, <span style="color: #646CFF ">Vite</span>, and <span style="color: #4FD84F ">Node.js</span>.</p>
+### Languages and Tools
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=8CC84B )
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=CC6699  )
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=B497D6  )
+![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=ff8be4 )
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26 )
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6 )
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E  )
+
+### Follow me
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=AF0089 )
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=00AAFF )
 
 
-<a href="#" style="text-decoration: none">
-    <button style="background: linear-gradient(90deg, rgba(20, 20, 20, 1) 38%, rgba(47, 0, 48, 1) 100%); border: none; color: white; font-size: 28px; width: 200px; height: 60px; border-radius: 10px; cursor: pointer; display: flex; justify-content: center; align-items: center">
-    <img src="./assets/line-md_instagram.svg" style="width: 40px; height: 40px; margin-right: 10px">
-    <p style="display: flex; padding-top: 15px;">Instagram</p> 
-    </button>
-</a>
