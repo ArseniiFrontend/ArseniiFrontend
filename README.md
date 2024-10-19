@@ -1,4 +1,4 @@
-[![Header](https://github.com/ArseniiFrontend/ArseniiFrontend/blob/main/assets/logo.jpg?raw=true)](https://t.me/frontendwebapps)
+<!-- [![Header](https://github.com/ArseniiFrontend/ArseniiFrontend/blob/main/assets/logo.jpg?raw=true)](https://t.me/frontendwebapps) -->
 
 
 ## Arsenii Usenko and I'm Junior Web-Developer
