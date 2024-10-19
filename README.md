@@ -1,4 +1,10 @@
-[![Header](https://raw.githubusercontent.com/ArseniiFrontend/ArseniiFrontend/main/assets/logo.jpg)](https://t.me/frontendwebapps)
+<p align="center">
+  <a href="https://t.me/frontendwebapps">
+    <img src="https://raw.githubusercontent.com/ArseniiFrontend/ArseniiFrontend/main/assets/logo.jpg" alt="Header">
+  </a>
+</p>
+
+
 
 
 
