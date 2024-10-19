@@ -28,5 +28,7 @@ I’m 16 years old and a Junior Frontend Developer. My tech stack includes React
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=AF0089)](https://www.instagram.com/arseniiusenko_/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=00AAFF)](https://t.me/frontendwebapps)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arseniifrontend&hide=contribs,prs&show_icons=true&theme=tokyonight)
+
 
 
