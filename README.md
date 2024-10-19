@@ -19,7 +19,8 @@ I’m 16 years old and a Junior Frontend Developer. My tech stack includes React
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E  )
 
 ### Follow me
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=AF0089 )
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=00AAFF )
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=AF0089)](https://www.instagram.com/arseniiusenko_/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=00AAFF)](https://t.me/frontendwebapps)
+
 
 
