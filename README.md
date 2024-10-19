@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/frontendwebapps">
-    <img src="https://raw.githubusercontent.com/ArseniiFrontend/ArseniiFrontend/main/assets/logo.jpg" alt="Header">
+    <img src="https://raw.githubusercontent.com/ArseniiFrontend/ArseniiFrontend/main/assets/logo.jpg" alt="Header" style="border-radius: 5px">
   </a>
 </p>
 
