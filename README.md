@@ -1,3 +1,6 @@
+[![Header](https://github.com/ArseniiFrontend/ArseniiFrontend/blob/main/assets/logo.jpg?raw=true)](https://t.me/frontendwebapps)
+
+
 ## Arsenii Usenko and I'm Junior Web-Developer
 
 I’m 16 years old and a Junior Frontend Developer. My tech stack includes React, TypeScript, SCSS, Bootstrap 5, Vite, and Node.js.
